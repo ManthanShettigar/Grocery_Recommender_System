@@ -17,9 +17,7 @@ This project aims to build a recommender system for a grocery store that predict
 - Scikit-learn
 - XGBoost
 - Flask
-```
-# No code changes needed to initialize a git repo in this context
-```
+
 
 
 
