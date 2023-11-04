@@ -101,4 +101,5 @@ It will open up a web browser where users can input their purchase history and r
 
 here is the democode for the API usage:
 
-[![Video Alt Text](data/streamlit-gui-2023-11-04-17-11-83-thumbnail.png)](data/streamlit-gui-2023-11-04-17-11-83.webm)
+![GitHub Octocat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQzajM2bzliaTd1eW83NHA0c2JxeDd6OGczdW1kc256cHRzd2g5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxicSPeffatKoJzA7p/giphy.gif)
+
