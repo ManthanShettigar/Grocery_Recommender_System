@@ -101,4 +101,4 @@ It will open up a web browser where users can input their purchase history and r
 
 here is the democode for the API usage:
 
-![](data/streamlit-gui-2023-11-04-17-11-83.webm)
+[![Video Alt Text](data/streamlit-gui-2023-11-04-17-11-83-thumbnail.png)](data/streamlit-gui-2023-11-04-17-11-83.webm)
