@@ -17,9 +17,7 @@ This project aims to build a recommender system for a grocery store that predict
 - Scikit-learn
 - XGBoost
 - Flask
-```
-# No code changes needed to initialize a git repo in this context
-```
+
 
 
 
@@ -100,5 +98,3 @@ streamlit run gui.py
 It will open up a web browser where users can input their purchase history and receive reorder predictions and product recommendations.
 
 here is the democode for the API usage:
-
-![](data/streamlit-gui-2023-11-04-17-11-83.gif)
